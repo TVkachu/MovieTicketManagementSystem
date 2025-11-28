@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d2e2234-1b97-45ec-b71c-03ea8afa4afd" />Please make sure you have a suitable C compiler (like GCC) that supports C99 or newer in order to run this program.
+Please make sure you have a suitable C compiler (like GCC) that supports C99 or newer in order to run this program.
 
 To run this program, follow the steps given below (assuming you are on Windows and using gcc).
 1. Download the movieTicketManagementSystem.c file and place it in any folder you want (a dedicated folder is recommended).
